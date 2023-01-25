@@ -2,7 +2,7 @@
 
 > A dark theme for [Nitter](https://nitter.net/).
 
-![Screenshot](./screenshot1.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
